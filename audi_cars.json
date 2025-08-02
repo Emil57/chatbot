@@ -1,0 +1,20 @@
+[
+  {
+    "model": "Audi A3",
+    "price": "$30,000 USD",
+    "features": ["2.0L Engine", "Automatic", "5 doors"],
+    "available": true
+  },
+  {
+    "model": "Audi Q5",
+    "price": "$45,000 USD",
+    "features": ["SUV", "2.0L Turbo Engine", "Quattro Drive"],
+    "available": false
+  },
+  {
+    "model": "Audi A4",
+    "price": "$38,000 USD",
+    "features": ["Sedan", "2.0L Engine", "Automatic"],
+    "available": true
+  }
+]
